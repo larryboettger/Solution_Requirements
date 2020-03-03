@@ -1,6 +1,10 @@
 This is a repository for cybersecurity technical mechanisms
 To-Do = Add more solutions based on Cybersecurity_Tech_Mechanisms_V1.png  
-Doing = Working on creating one a week
+Doing = Working on Patch Management
 Done:
      - SIEM
      - IAM/IGA
+     - MFA
+     - App Scan
+     - MDM
+     
